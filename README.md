@@ -8,10 +8,13 @@ I'm working together with [@Armin2208](https://github.com/Armin2208) on Auto Dar
 [Please check it out here!](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
 My favorite languages include:
-- Golang
 - C#
+- Golang
 - Python
 
 My favorite webframeworks:
 - Nuxt/Vue.js
 - Vanilla (heh)
+
+Learning:
+- rust
