@@ -8,7 +8,7 @@ I'm working together with [@Armin2208](https://github.com/Armin2208) on Auto Dar
 [Please check it out here!](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
 
 ### Walzen Group
-Together with @FunnyPocketBook](https://github.com/FunnyPocketBook) I run [Walzen](https://github.com/Walzen-Group), a home server hobby project that has gone way out of scope and has turned into a compsci/sysadmin passion project.
+Together with [@FunnyPocketBook](https://github.com/FunnyPocketBook) I run [Walzen](https://github.com/Walzen-Group), a home server hobby project that has gone way out of scope and has turned into a compsci/sysadmin passion project.
 We're mostly making tools to manage our stack, but most of it is FOSS and when we get the chance we try to contribute to the projects we use and like.
 
 ### Languages
